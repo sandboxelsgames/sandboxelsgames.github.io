@@ -2,7 +2,7 @@ Suggest new additions at https://link.R74n.com/sandboxels-feedback
 
 See sneak peaks for upcoming updates on the Discord: https://discord.gg/ejUc6YPQuS
 
-A fancier version of this changelog can be found here: https://sandboxels.R74n.com/changelog
+A fancier version of this changelog can be found here: https://sandboxels.online/changelog
 
 [Version 1.10.2 - December 15, 2024 - Birthday III]
     + Cheese Powder, from breaking Cheese
