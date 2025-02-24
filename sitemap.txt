@@ -1,12 +1,6 @@
 https://sandboxels.online/
-https://sandboxels.online/lite
-https://sandboxels.online/changelog
-https://sandboxels.online/controls
-https://sandboxels.online/icons/
-https://sandboxels.online/education-use
 https://sandboxels.online/help
 https://sandboxels.online/mobile-use
-https://sandboxels.online/mod-list
 https://sandboxels.online/offline-use
-https://sandboxels.online/feedback
 https://sandboxels.online/tips
+https://sandboxels.online/privacy
